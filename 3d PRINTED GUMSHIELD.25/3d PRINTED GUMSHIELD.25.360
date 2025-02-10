@@ -6,5 +6,5 @@
     "type": "KeyShotXR",                 // Type remains KeyShotXR
     "verticalFrames": 210,               // Total frames for vertical rotation
     "verticalStartingIndex": 209,        // Start at the last vertical frame (optional)
-    "verticalWrap": true                 // Enable wrapping for vertical rotation
+    "verticalWrap": false                 // Enable wrapping for vertical rotation
 }
