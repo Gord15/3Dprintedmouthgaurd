@@ -1,10 +1,10 @@
 {
-    "horizontalFrames": 210,
-    "horizontalStartingIndex": 209,
-    "horizontalWrap": true,
-    "name": "3d PRINTED GUMSHIELD.25",
-    "type": "KeyShotXR",
-    "verticalFrames": 1,
-    "verticalStartingIndex": 0,
-    "verticalWrap": false
+    "horizontalFrames": 1,               // Only 1 horizontal frame (no horizontal rotation)
+    "horizontalStartingIndex": 0,        // Starting at the first horizontal frame
+    "horizontalWrap": false,             // No wrapping for horizontal rotation
+    "name": "3d PRINTED GUMSHIELD.25",   // Name of the project
+    "type": "KeyShotXR",                 // Type remains KeyShotXR
+    "verticalFrames": 210,               // Total frames for vertical rotation
+    "verticalStartingIndex": 209,        // Start at the last vertical frame (optional)
+    "verticalWrap": true                 // Enable wrapping for vertical rotation
 }
